@@ -5,9 +5,7 @@
 
 - 🌱 I’m currently learning **DSA, HTML & CSS, XML, PHP, JS, JAVA**
 
-- 📫 How to reach me **kshitizbca076@ojashwicollege.com.np**
-
-- ⚡ Fun fact **People say I am cute**
+- ⚡ **People say I am cute**
 
 
 <h3 align="left">Languages and Tools:</h3>
