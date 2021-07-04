@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kshitiz</h1>
 <h3 align="center">BCA(TU) student as of now.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitizbca076&label=Profile%20views&color=0e75b6&style=flat" alt="kshitizbca076" /> </p>
-
-- 🌱 I’m currently learning **DSA, HTML & CSS, XML, PHP, JS, JAVA**
+- 🌱 I’m currently learning **DSA, HTML & CSS, XML, PHP, Java**
 
 - ⚡ **People say I am cute**
 
