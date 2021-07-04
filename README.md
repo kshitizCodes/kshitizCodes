@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitizbca076&label=Profile%20views&color=0e75b6&style=flat" alt="kshitizbca076" /> </p>
 
-- 🌱 I’m currently learning **DSA,HTML & CSS, XML, PHP, JS, JAVA**
+- 🌱 I’m currently learning **DSA, HTML & CSS, XML, PHP, JS, JAVA**
 
 - 📫 How to reach me **kshitizbca076@ojashwicollege.com.np**
 
