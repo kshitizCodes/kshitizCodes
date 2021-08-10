@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **DSA, HTML & CSS, XML, PHP & Java**
 
-- ⚡ **People say I am cute**
+- ⚡ **People say I am brotherly???**
 
 
 <h3 align="left">Languages and Tools:</h3>
