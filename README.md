@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kshitiz</h1>
 <h3 align="center">BCA(TU) student as of now.</h3>
 
-- 🌱 ***HTML and CSS, PHP, Python, Java*
+- 🌱 ***HTML and CSS, PHP, Python, Java**
 
 - ⚡ **People say I am brotherly???**
 
